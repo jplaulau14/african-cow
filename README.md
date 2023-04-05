@@ -35,7 +35,7 @@ For Mac/Linux:
 source venv/bin/activate
 ```
 
-1. Install the required packages using the following command:
+4. Install the required packages using the following command:
 
 ```bash
 pip install -r requirements.txt
