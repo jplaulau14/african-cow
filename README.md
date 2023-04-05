@@ -21,19 +21,21 @@ git clone git@github.com:jplaulau14/african-cow.git
 python -m venv venv
 ```
 
-3.1 On windows, activate the virtual environment using the following command:
+3. Activate the virtual environment.
+
+For Windows:
 
 ```bash
 venv\Scripts\activate
 ```
 
-3.2 On Mac or Linux, activate the virtual environment using the following command:
+For Mac/Linux:
 
 ```bash
 source venv/bin/activate
 ```
 
-4. Install the required packages using the following command:
+1. Install the required packages using the following command:
 
 ```bash
 pip install -r requirements.txt
